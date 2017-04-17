@@ -1,0 +1,84 @@
+<svg height="1294" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1294" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 19:56:04 +0000 24778982 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 19:56:04 +0000     7123 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 19:56:04 +0000     2696 bytes  package.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 19:56:04 +0000     5611 bytes  plugin.xml</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 19:56:04 +0000     2811 bytes  scripts/fcm_config_files_process.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 19:56:04 +0000      434 bytes  src/android/FCMPlugin.gradle</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 19:56:04 +0000     5034 bytes  src/android/FCMPlugin.java</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 19:56:04 +0000     2372 bytes  src/android/FCMPluginActivity.java</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 19:56:04 +0000      801 bytes  src/android/MyFirebaseInstanceIDService.java</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 19:56:04 +0000     3575 bytes  src/android/MyFirebaseMessagingService.java</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 19:56:04 +0000      258 bytes  src/ios/AppDelegate+FCMPlugin.h</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 19:56:04 +0000    11110 bytes  src/ios/AppDelegate+FCMPlugin.m</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 19:56:04 +0000      605 bytes  src/ios/FCMPlugin.h</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 19:56:04 +0000     4688 bytes  src/ios/FCMPlugin.m</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 19:56:04 +0000      192 bytes  src/ios/GoogleService-Info.plist</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 19:56:04 +0000     1676 bytes  src/ios/firebase/Firebase.h</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 19:56:04 +0000  7169408 bytes  src/ios/firebase/FirebaseAnalytics.framework/Fir\</tspan>
+<tspan x="10" y="298">ebaseAnalytics</tspan>
+<tspan x="10" y="314"> 17.  2017-04-17 19:56:04 +0000     2467 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="330">ders/FIRAnalytics+AppDelegate.h</tspan>
+<tspan x="10" y="346"> 18.  2017-04-17 19:56:04 +0000     3682 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="362">ders/FIRAnalytics.h</tspan>
+<tspan x="10" y="378"> 19.  2017-04-17 19:56:04 +0000       52 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="394">ders/FIRAnalyticsConfiguration.h</tspan>
+<tspan x="10" y="410"> 20.  2017-04-17 19:56:04 +0000       33 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="426">ders/FIRApp.h</tspan>
+<tspan x="10" y="442"> 21.  2017-04-17 19:56:04 +0000       43 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="458">ders/FIRConfiguration.h</tspan>
+<tspan x="10" y="474"> 22.  2017-04-17 19:56:04 +0000    18070 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="490">ders/FIREventNames.h</tspan>
+<tspan x="10" y="506"> 23.  2017-04-17 19:56:04 +0000       37 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="522">ders/FIROptions.h</tspan>
+<tspan x="10" y="538"> 24.  2017-04-17 19:56:04 +0000     9817 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="554">ders/FIRParameterNames.h</tspan>
+<tspan x="10" y="570"> 25.  2017-04-17 19:56:04 +0000      831 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="586">ders/FIRUserPropertyNames.h</tspan>
+<tspan x="10" y="602"> 26.  2017-04-17 19:56:04 +0000      324 bytes  src/ios/firebase/FirebaseAnalytics.framework/Hea\</tspan>
+<tspan x="10" y="618">ders/FirebaseAnalytics.h</tspan>
+<tspan x="10" y="634"> 27.  2017-04-17 19:56:04 +0000      487 bytes  src/ios/firebase/FirebaseAnalytics.framework/Mod\</tspan>
+<tspan x="10" y="650">ules/module.modulemap</tspan>
+<tspan x="10" y="666"> 28.  2017-04-17 19:56:04 +0000  2758416 bytes  src/ios/firebase/FirebaseCore.framework/Firebase\</tspan>
+<tspan x="10" y="682">Core</tspan>
+<tspan x="10" y="698"> 29.  2017-04-17 19:56:04 +0000     1220 bytes  src/ios/firebase/FirebaseCore.framework/Headers/\</tspan>
+<tspan x="10" y="714">FIRAnalyticsConfiguration.h</tspan>
+<tspan x="10" y="730"> 30.  2017-04-17 19:56:04 +0000     3373 bytes  src/ios/firebase/FirebaseCore.framework/Headers/\</tspan>
+<tspan x="10" y="746">FIRApp.h</tspan>
+<tspan x="10" y="762"> 31.  2017-04-17 19:56:04 +0000     1140 bytes  src/ios/firebase/FirebaseCore.framework/Headers/\</tspan>
+<tspan x="10" y="778">FIRConfiguration.h</tspan>
+<tspan x="10" y="794"> 32.  2017-04-17 19:56:04 +0000     3146 bytes  src/ios/firebase/FirebaseCore.framework/Headers/\</tspan>
+<tspan x="10" y="810">FIROptions.h</tspan>
+<tspan x="10" y="826"> 33.  2017-04-17 19:56:04 +0000      163 bytes  src/ios/firebase/FirebaseCore.framework/Headers/\</tspan>
+<tspan x="10" y="842">FirebaseCore.h</tspan>
+<tspan x="10" y="858"> 34.  2017-04-17 19:56:04 +0000      265 bytes  src/ios/firebase/FirebaseCore.framework/Modules/\</tspan>
+<tspan x="10" y="874">module.modulemap</tspan>
+<tspan x="10" y="890"> 35.  2017-04-17 19:56:04 +0000  3111320 bytes  src/ios/firebase/FirebaseInstanceID.framework/Fi\</tspan>
+<tspan x="10" y="906">rebaseInstanceID</tspan>
+<tspan x="10" y="922"> 36.  2017-04-17 19:56:04 +0000    10088 bytes  src/ios/firebase/FirebaseInstanceID.framework/He\</tspan>
+<tspan x="10" y="938">aders/FIRInstanceID.h</tspan>
+<tspan x="10" y="954"> 37.  2017-04-17 19:56:04 +0000       27 bytes  src/ios/firebase/FirebaseInstanceID.framework/He\</tspan>
+<tspan x="10" y="970">aders/FirebaseInstanceID.h</tspan>
+<tspan x="10" y="986"> 38.  2017-04-17 19:56:04 +0000      130 bytes  src/ios/firebase/FirebaseInstanceID.framework/Mo\</tspan>
+<tspan x="10" y="1002">dules/module.modulemap</tspan>
+<tspan x="10" y="1018"> 39.  2017-04-17 19:56:04 +0000  4294144 bytes  src/ios/firebase/FirebaseMessaging.framework/Fir\</tspan>
+<tspan x="10" y="1034">ebaseMessaging</tspan>
+<tspan x="10" y="1050"> 40.  2017-04-17 19:56:04 +0000     9380 bytes  src/ios/firebase/FirebaseMessaging.framework/Hea\</tspan>
+<tspan x="10" y="1066">ders/FIRMessaging.h</tspan>
+<tspan x="10" y="1082"> 41.  2017-04-17 19:56:04 +0000       26 bytes  src/ios/firebase/FirebaseMessaging.framework/Hea\</tspan>
+<tspan x="10" y="1098">ders/FirebaseMessaging.h</tspan>
+<tspan x="10" y="1114"> 42.  2017-04-17 19:56:04 +0000      221 bytes  src/ios/firebase/FirebaseMessaging.framework/Mod\</tspan>
+<tspan x="10" y="1130">ules/module.modulemap</tspan>
+<tspan x="10" y="1146"> 43.  2017-04-17 19:56:04 +0000   263512 bytes  src/ios/firebase/GoogleIPhoneUtilities.framework\</tspan>
+<tspan x="10" y="1162">/GoogleIPhoneUtilities</tspan>
+<tspan x="10" y="1178"> 44.  2017-04-17 19:56:04 +0000  4461712 bytes  src/ios/firebase/GoogleInterchangeUtilities.fram\</tspan>
+<tspan x="10" y="1194">ework/GoogleInterchangeUtilities</tspan>
+<tspan x="10" y="1210"> 45.  2017-04-17 19:56:04 +0000    37696 bytes  src/ios/firebase/GoogleSymbolUtilities.framework\</tspan>
+<tspan x="10" y="1226">/GoogleSymbolUtilities</tspan>
+<tspan x="10" y="1242"> 46.  2017-04-17 19:56:04 +0000  2567216 bytes  src/ios/firebase/GoogleUtilities.framework/Googl\</tspan>
+<tspan x="10" y="1258">eUtilities</tspan>
+<tspan x="10" y="1274"> 47.  2017-04-17 19:56:04 +0000     1550 bytes  www/FCMPlugin.js</tspan>
+</text>
+</svg>
