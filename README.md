@@ -1,4 +1,7 @@
-# test coverage for  [cordova-plugin-fcm (v2.1.1)](https://github.com/fechanique/cordova-plugin-fcm#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-fcm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-fcm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-fcm.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-fcm)
+# npmtest-cordova-plugin-fcm
+
+#### basic test coverage for  [cordova-plugin-fcm (v2.1.1)](https://github.com/fechanique/cordova-plugin-fcm#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-fcm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-fcm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-fcm.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-fcm)
+
 #### Google Firebase Cloud Messaging Cordova Push Plugin
 
 [![NPM](https://nodei.co/npm/cordova-plugin-fcm.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-fcm)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-fcm/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-fcm/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-fcm/build/coverage.html/index.html)
 
@@ -82,7 +85,8 @@
         "url": "git+https://github.com/fechanique/cordova-plugin-fcm.git"
     },
     "scripts": {},
-    "version": "2.1.1"
+    "version": "2.1.1",
+    "bin": {}
 }
 ```
 
